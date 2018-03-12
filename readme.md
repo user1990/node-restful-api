@@ -11,9 +11,9 @@ This repository shows simple example for creating a RESTful API with Node.js/Exp
 - Uploading an Image
 
 ## Usage
-```git clone``` it and thereafter run ```npm install```.
+```git clone``` repository and thereafter run ```npm install```.
 
-Make sure to also add your Mongo Atlas URI to a .env file (which you have to create in the root directory).
+Make sure to also add your Mongo Atlas URI and random JWT key to a .env file (which you have to create in the root directory).
 
 Example:
 
